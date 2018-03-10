@@ -1,4 +1,5 @@
-#SIMPLE HOTELS OFFERS SEARCH 
+#SIMPLE HOTELS OFFERS SEARCH
+ 
 project consumes response from API service call and view results 
 in readable way
 
